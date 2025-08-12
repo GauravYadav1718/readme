@@ -32,6 +32,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-yadav-a5325b320/)
 
+## Links 🔗 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your-username/)
+
+
 ---
 
 > ⚡ Fun Fact: I love tackling new coding challenges and believe in continuous self-improvement!
