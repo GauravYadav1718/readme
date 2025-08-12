@@ -33,7 +33,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-yadav-a5325b320/)
 
 ## Links 🔗 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your-username/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/Gaurav_Yadav01/)
 
 
 ---
