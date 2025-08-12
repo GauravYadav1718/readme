@@ -14,7 +14,7 @@
 > "Code. Commit. Conquer."
 
 ## 🚀 Featured Project
-[![SkillSwap App](https://img.shields.io/badge/GitHub-SkillSwap_App-blue?logo=github)](https://github.com/GauravYadav1718/SkillSwap)
+[![SkillSwap App](https://img.shields.io/badge/GitHub-SkillSwap_App-blue?logo=github)](https://github.com/GauravYadav1718/projectskill)
 
 
 ## 🛠️ Skills & Tools
